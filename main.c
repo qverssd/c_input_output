@@ -16,6 +16,6 @@ int main(void){
     while (fgets(buffer, BUF_SIZE, stdin)){
         puts(buffer);
     }
-    printf("Ctrl+d pressed by User, i'll leave now");
+    printf("Ctrl+d pressed by User, so i'll leave now");
 
 }
